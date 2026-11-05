@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berat\\OneDrive\\Desktop\\Algoritma ve Programlama Temelleri\\22.10.2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{490C20C1-1580-48CC-AA91-2C4D33AE3A73}|22.10.2026\\22.10.2026.csproj|c:\\users\\berat\\onedrive\\desktop\\algoritma ve programlama temelleri\\22.10.2026\\22.10.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490C20C1-1580-48CC-AA91-2C4D33AE3A73}|22.10.2026\\22.10.2026.csproj|solutionrelative:22.10.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Desktop\\Algoritma ve Programlama Temelleri\\22.10.2026\\22.10.2026\\Program.cs",
+              "RelativeDocumentMoniker": "22.10.2026\\Program.cs",
+              "ToolTip": "C:\\Users\\berat\\OneDrive\\Desktop\\Algoritma ve Programlama Temelleri\\22.10.2026\\22.10.2026\\Program.cs",
+              "RelativeToolTip": "22.10.2026\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T10:19:51.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
