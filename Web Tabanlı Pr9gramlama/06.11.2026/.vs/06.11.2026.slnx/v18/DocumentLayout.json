@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berat\\OneDrive\\Desktop\\Web Tabanl\u0131 Programlama\\06.11.2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2056E30-2223-4D0C-AA65-A74D2F23B943}|06.11.2026\\06.11.2026.csproj|c:\\users\\berat\\onedrive\\desktop\\web tabanl\u0131 programlama\\06.11.2026\\06.11.2026\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2056E30-2223-4D0C-AA65-A74D2F23B943}|06.11.2026\\06.11.2026.csproj|solutionrelative:06.11.2026\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Desktop\\Web Tabanl\u0131 Programlama\\06.11.2026\\06.11.2026\\index.html",
+              "RelativeDocumentMoniker": "06.11.2026\\index.html",
+              "ToolTip": "C:\\Users\\berat\\OneDrive\\Desktop\\Web Tabanl\u0131 Programlama\\06.11.2026\\06.11.2026\\index.html",
+              "RelativeToolTip": "06.11.2026\\index.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-06T07:51:05.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
